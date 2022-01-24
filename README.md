@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KevinGuillaume
 - 👀 I’m interested in full-stack development, and exploring the blockchain space!
-- 🌱 I’m currently learning on how to work and integrate a database within a web app
+- 🌱 Currently working on learning solidity + building Dapps
 - 📫 How to reach me: keving3492@gmail.com
 
 <!---
